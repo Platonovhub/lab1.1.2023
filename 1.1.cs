@@ -1,6 +1,6 @@
 using System;
 
-namespace OOP_LB_1._1
+namespace 1.1.cs
 { 
     
     class Program
