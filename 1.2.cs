@@ -1,7 +1,6 @@
 using System;
 
-namespace OOL_LB_1._3
-{
+namespace 1.2.cs
     delegate float Avg(int x,int y ,int z);
     class Program
     {
